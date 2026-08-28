@@ -1,0 +1,31 @@
+MONTH 1-3: Baseline security & core architecture
+------------------------------------------------------------------------------------------------------------------------------------------------
+1.Networking Foundations- Jeremy's IT lab CCNA Course
+2.Security Baselines- Professor Messer's Security+ videos
+
+tools- Cisco packet tracer, Wireshark, Anki.
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+MONTH 4-6: Cloud infrastructure & IAM Architecture (AZURE)
+------------------------------------------------------------------------------------------------------------------------------------------------
+1.Cloud operations - Microsoft Azure Administrator (AZ-104)
+2.Cloud Security - Azure Security Engineer (AZ-500)
+
+resource- John Savill's Technical Training
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+MONTH 7-9: Defensive Technical GRC & Labs 
+------------------------------------------------------------------------------------------------------------------------------------------------
+1.Practice defensive labs - Blue team labs online or letsDefend
+2.SIEM Tools- Microsoft Sentinel & Splunk
+3.Framework Translation
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+PROJECTS
+------------------------------------------------------------------------------------------------------------------------------------------------
+1.The Multi-Tier Secure Cloud Architecture: 
+Deploy a secure network infrastructure inside AWS or Azure. Configure private and public subnets, deploy a virtual firewall, disable all public internet access to databases, and set up strict IAM roles ensuring the Principle of Least Privilege.
+
+2.The Automated Cloud Audit & Compliance Report: 
+Deploy a misconfigured infrastructure on a free-tier cloud account (e.g., leaving an S3 storage bucket wide open to the public). Run a free cloud compliance tool like Prowler or AWS Security Hub against your environment. Generate a compliance report detailing which CIS Benchmarks or ISO 27001 controls failed, then write a manual remediation guide fixing those flaws.
+------------------------------------------------------------------------------------------------------------------------------------------------
